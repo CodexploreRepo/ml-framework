@@ -5,6 +5,9 @@
 #To create a new conda env
 conda create--name myenv_name
 
+#To list env in Conda
+conda env list
+
 #To activate & deactivate
 conda activate myenv_name
 conda deactivate
